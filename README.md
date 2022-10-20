@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+ Aspiring software developer.
+
+Currently learning Java, I'm learning while building Metflix from scratch. Feel free to have a look!
+
+
+
 
 <!--
 **michal-jamula/michal-jamula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
