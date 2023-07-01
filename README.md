@@ -2,7 +2,7 @@
 
  Aspiring software developer.
 
-Currently learning Java, I'm learning while building Metflix from scratch. Feel free to have a look!
+I'm currently learning Java by developing various projects
 
 
 
